@@ -1,0 +1,14 @@
+C:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe
+C:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.pdb
+C:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+C:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.exe
+C:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.pdb
+D:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe.config
+D:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.exe
+D:\Users\crash\source\repos\Kursach\Kursach\bin\Debug\Kursach.pdb
+D:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.csprojAssemblyReference.cache
+D:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.csproj.CoreCompileInputs.cache
+D:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.exe
+D:\Users\crash\source\repos\Kursach\Kursach\obj\Debug\Kursach.pdb

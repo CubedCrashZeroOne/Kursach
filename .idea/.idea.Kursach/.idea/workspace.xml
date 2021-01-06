@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e6b4cf4-ff77-4ba1-8838-cef35d1aaa2c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MenuHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3064">
+              <caret line="198" column="44" selection-start-line="198" selection-start-column="44" selection-end-line="198" selection-end-column="44" />
+              <folding>
+                <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+                <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+                <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+                <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+                <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroceryStore.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-598">
+              <caret line="103" column="103" selection-start-line="103" selection-start-column="103" selection-end-line="103" selection-end-column="103" />
+              <folding>
+                <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+                <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+                <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+                <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+                <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+                <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+                <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+                <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+                <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+                <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+                <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+                <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+                <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+                <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+                <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+                <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+                <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+                <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+                <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+                <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+                <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-603">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+                <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+                <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+                <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+                <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+                <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+                <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Department.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="35" column="81" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
+              <folding>
+                <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+                <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+                <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+                <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+                <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+                <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+                <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+                <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Kursach/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kursach/Department.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kursach/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kursach/FileHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kursach/Product.cs" />
+        <option value="$PROJECT_DIR$/Kursach/FileHandler.cs" />
+        <option value="$PROJECT_DIR$/Kursach/Program.cs" />
+        <option value="$PROJECT_DIR$/Kursach/GroceryStore.cs" />
+        <option value="$PROJECT_DIR$/Kursach/Department.cs" />
+        <option value="$PROJECT_DIR$/Kursach/MenuHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="y" value="6" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Kursach (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Kursach (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Kursach" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RiderProjects/DrihaBohdan/DrihaBohdan.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Kursach/bin/Debug/Kursach.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kursach/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Kursach/Kursach.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e6b4cf4-ff77-4ba1-8838-cef35d1aaa2c" name="Default" comment="" />
+      <created>1575221931649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575221931649</updated>
+      <workItem from="1575221955435" duration="1644000" />
+      <workItem from="1575486993812" duration="4896000" />
+      <workItem from="1575652610830" duration="595000" />
+      <workItem from="1575843815085" duration="3846000" />
+      <workItem from="1575999186871" duration="9512000" />
+      <workItem from="1576060954288" duration="5863000" />
+      <workItem from="1576280732323" duration="1796000" />
+      <workItem from="1576448741891" duration="4095000" />
+      <workItem from="1576680096274" duration="4994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37241000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3294893" />
+      <window_info anchor="bottom" id="Errors In Solution" order="14" weight="0.26853377" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" weight="0.3294893" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.4859967" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32784185" />
+      <window_info anchor="bottom" id="NuGet" order="5" weight="0.3294893" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2730711" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="15" />
+      <window_info anchor="right" id="Database" order="0" weight="0.23639192" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3294893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2265">
+          <caret line="151" column="48" lean-forward="true" selection-start-line="151" selection-start-column="48" selection-end-line="151" selection-end-column="48" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="59" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="71" selection-start-line="152" selection-start-column="71" selection-end-line="152" selection-end-column="71" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2055">
+          <caret line="137" column="11" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="58" selection-start-line="138" selection-start-column="58" selection-end-line="138" selection-end-column="58" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" column="9" selection-start-line="117" selection-start-column="9" selection-end-line="117" selection-end-column="9" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4125">
+          <caret line="275" column="42" selection-start-line="275" selection-start-column="42" selection-end-line="275" selection-end-column="42" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="73" column="44" lean-forward="true" selection-start-line="73" selection-start-column="44" selection-end-line="73" selection-end-column="44" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/FileHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1576681765279" expanded="true" signature="6:58" ph="..." />
+            <marker date="1576681765279" expanded="true" signature="77:2643" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="108:2641" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="269:1820" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="347:466" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="483:1712" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="692:1698" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="839:1680" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1137:1624" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1744:1810" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1884:2635" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="1987:2625" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2066:2611" ph="{...}" />
+            <marker date="1576681765279" expanded="true" signature="2200:2593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Department.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="35" column="81" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
+          <folding>
+            <marker date="1576683033690" expanded="false" signature="6:66" ph="..." />
+            <marker date="1576683033690" expanded="true" signature="85:947" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="108:945" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="254:299" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="309:451" ph="/// Get total income based on products sold from this department. ... " />
+            <marker date="1576683033690" expanded="true" signature="487:665" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="568:631" ph="{...}" />
+            <marker date="1576683033690" expanded="true" signature="675:811" ph="/// Returns the highest-grossing product in the department. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/GroceryStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-598">
+          <caret line="103" column="103" selection-start-line="103" selection-start-column="103" selection-end-line="103" selection-end-column="103" />
+          <folding>
+            <marker date="1576683033661" expanded="false" signature="6:97" ph="..." />
+            <marker date="1576683033661" expanded="true" signature="116:5818" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="141:5816" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="283:434" ph="/// Enter the department settings by index specified by the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="537:623" ph="/// Exit the current department settings. ... " />
+            <marker date="1576683033661" expanded="true" signature="699:795" ph="/// Output products in the department for the menu. ... " />
+            <marker date="1576683033661" expanded="true" signature="842:1001" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="913:991" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1011:1149" ph="/// Returns the number of products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="1234:1357" ph="/// Add a new Department to the store. ... " />
+            <marker date="1576683033661" expanded="true" signature="1404:1873" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1460:1704" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1515:1690" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="1883:2106" ph="/// Add a new product to the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="2429:2558" ph="/// Remove a producct at a specified index. ... " />
+            <marker date="1576683033661" expanded="true" signature="2663:2852" ph="/// Sell a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="2971:3214" ph="/// Restock on a specific number of units from a specified product. ... " />
+            <marker date="1576683033661" expanded="true" signature="3394:3507" ph="/// Output the highest-grossing and lowest-grossing department info. ... " />
+            <marker date="1576683033661" expanded="true" signature="3543:4025" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4035:4120" ph="/// Output the highest-grossing product. ... " />
+            <marker date="1576683033661" expanded="true" signature="4157:4857" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4300:4617" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4378:4603" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4447:4585" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4680:4746" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4763:4847" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="4867:4962" ph="/// Output all products in the current department. ... " />
+            <marker date="1576683033661" expanded="true" signature="4996:5166" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5096:5156" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5176:5266" ph="/// View all prodducts that are out of stock. ... " />
+            <marker date="1576683033661" expanded="true" signature="5299:5557" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5456:5547" ph="{...}" />
+            <marker date="1576683033661" expanded="true" signature="5567:5644" ph="/// Get total department income. ... " />
+            <marker date="1576683033661" expanded="true" signature="5678:5810" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/MenuHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3064">
+          <caret line="198" column="44" selection-start-line="198" selection-start-column="44" selection-end-line="198" selection-end-column="44" />
+          <folding>
+            <marker date="1576689118895" expanded="true" signature="6:41" ph="..." />
+            <marker date="1576689118895" expanded="true" signature="60:17465" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="81:223" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="253:17463" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="475:556" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="621:1383" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="899:1373" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1421:1595" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1642:1824" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1890:3295" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="1927:3285" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="2373:2475" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3356:17457" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3483:17447" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3570:7304" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="3700:4409" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4009:4273" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4468:4653" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="4699:4859" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="5243:5413" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6492:6621" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6667:6778" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="6831:6959" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7016:7197" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="7649:7812" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8102:13323" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8228:9410" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="8534:8798" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9469:9615" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9667:9805" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="9851:9972" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="10377:10547" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11015:11185" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="11658:11828" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="12292:12462" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13661:13831" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="13856:14432" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14470:14631" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="14934:15104" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15524:15694" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="15719:16008" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16046:16208" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16475:16645" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="16670:17122" ph="{...}" />
+            <marker date="1576689118895" expanded="true" signature="17160:17322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-603">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1576681285444" expanded="false" signature="6:41" ph="..." />
+            <marker date="1576681285444" expanded="true" signature="60:2391" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="80:2389" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="380:542" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="638:809" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="819:943" ph="/// Calculate total income from all units sold. ... " />
+            <marker date="1576681285444" expanded="true" signature="1001:1170" ph="/// Replace name and price with new values. ... " />
+            <marker date="1576681285444" expanded="true" signature="1222:1294" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1304:1427" ph="/// Sell a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="1464:1870" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1508:1697" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1714:1860" ph="{...}" />
+            <marker date="1576681285444" expanded="true" signature="1880:2057" ph="/// Restock on a specific number of units. ... " />
+            <marker date="1576681285444" expanded="true" signature="2122:2224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kursach/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1576681765216" expanded="true" signature="32:736" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="52:734" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="98:728" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="241:718" ph="{...}" />
+            <marker date="1576681765216" expanded="true" signature="468:704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
